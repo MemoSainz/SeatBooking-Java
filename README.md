@@ -18,7 +18,7 @@
 >
 > <div align="center">  <h2>Español</h2>  </div>
 > 
-> Un programa para la termina. Para que alguien pueda reservar un asiento, que desea. Y más deun cliente lo puede hacer.
+> Un programa para la terminal. Para que alguien pueda reservar un asiento, que desea. Y más deun cliente lo puede hacer.
 > También, se espera que el cliente pueda escoger un asiento que ya está reservado, así que, la app en la terminal le dirá que no es posible, sino escoger otro en otro lugar.
 >
 > Abre esto en tu IDE favorito, yo usé IntelliJ
