@@ -16,7 +16,9 @@
 
 <br>
 
-<img src="https://i.imgur.com/uXre3TU.png">
+<div align="center">
+
+<img src="https://i.imgur.com/uXre3TU.png">  </div>
 
 <div align="center"> 
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
