@@ -1,4 +1,6 @@
-## Seat Booking system
+<div align="center">
+
+## Seat Booking system  </div>
 
 > [!IMPORTANT]
 > Well, a terminal thing. In order to reserve a seat, the one that the client wants. And more than one client can do that.
