@@ -5,7 +5,7 @@
 
 > [!IMPORTANT]
 >
-> <h2>English</h2>
+> <div align="center"> <h2>English</h2> </div>
 > 
 > Well, a terminal thing. In order to reserve a seat, the one that the client wants. And more than one client can do that.
 > Likewise, it is also expected that the client will choose a seat that is already reserved, so, the app in the terminal will tell him that it's not possible, but what is possible is that he can book another seat in another place!
@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> <h2>Español</h2>
+> <div align="center">  <h2>Español</h2>  </div>
 > 
 > Un programa para la termina. Para que alguien pueda reservar un asiento, que desea. Y más deun cliente lo puede hacer.
 > También, se espera que el cliente pueda escoger un asiento que ya está reservado, así que, la app en la terminal le dirá que no es posible, sino escoger otro en otro lugar.
